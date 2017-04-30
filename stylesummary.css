@@ -1,1 +1,45 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 2;
+    overflow: hidden;
+    background-color: black;
+}
 
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+body {
+    background-color: azure;
+}
+h1 {
+    color: darkred;
+    margin-left: 40px;
+} 
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
