@@ -6,8 +6,12 @@ h1 {
     color: maroon;
     margin-left: 40px;
 } 
-p.paragraf {
-  color: black;
-    border-style: dotted;
-    border-width: 2px;
+p {
+    color:black;
+}
+.paragraf {
+   margin: auto;
+    width: 60%;
+    border: 3px dotted #73AD21;
+    padding: 5px;
 }
