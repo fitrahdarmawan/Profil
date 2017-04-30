@@ -17,8 +17,12 @@ img {
     border: 2px dotted #8b0000;
     padding: 5px;
 }
-h1 { color: red;
+h1 { color: darkred;
     margin-left: 20px;
+}
+h2 {
+   color: black;
+   margin-left: 20px;
 }
 p {
     color: navy;
