@@ -1,6 +1,10 @@
 body {
    color: azure;
 }
+img {
+    display: block;
+    margin: 0 auto;
+}
 .biografi {
    margin: auto;
     width: 60%;
