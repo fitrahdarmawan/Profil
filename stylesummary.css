@@ -28,6 +28,10 @@ h1 {
     color: darkred;
     margin-left: 40px;
 } 
+h2 {
+    color: darkred;
+    margin-left: 40px;
+}
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
